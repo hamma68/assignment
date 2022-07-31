@@ -1,3 +1,16 @@
 p {
   font-family: Lato;
 }
+.item {
+  background-color: ghostwhite;
+  border-radius: 0.5rem;
+  width: auto;
+  height: auto;
+  padding: 5px;
+  margin: 5px;
+}
+.avatar {
+  width: 10px;
+  position: absolute;
+  right: 20px;
+}
